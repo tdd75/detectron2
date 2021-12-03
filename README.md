@@ -1,4 +1,4 @@
-# Instance Segmentation for Pig Dataset use Detectron 2
+# Instance Segmentation for Pig Dataset use Mask R-CNN (lib Detectron 2)
 ## Training in Google Colab
 https://colab.research.google.com/drive/1RGR-6JqqQoXB6lpqNgRKY1fqI3OQdT9n?usp=sharing
 ## Run in local
